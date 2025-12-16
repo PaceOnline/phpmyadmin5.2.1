@@ -1,6 +1,3 @@
-# Local configuration
-config.inc.php
-
 # Operating System files
 .DS_Store
 Thumbs.db
