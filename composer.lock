@@ -7971,7 +7971,8 @@
         "ext-mysqli": "*",
         "ext-openssl": "*",
         "ext-pcre": "*",
-        "ext-xml": "*"
+        "ext-xml": "*",
+        "ext-zip": "*"
     },
     "platform-dev": [],
     "platform-overrides": {

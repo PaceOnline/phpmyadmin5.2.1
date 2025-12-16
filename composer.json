@@ -55,6 +55,7 @@
         "ext-openssl": "*",
         "ext-pcre": "*",
         "ext-xml": "*",
+        "ext-zip": "*",
         "composer/ca-bundle": "^1.2",
         "google/recaptcha": "^1.1",
         "nikic/fast-route": "^1.3",
